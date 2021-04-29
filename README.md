@@ -1,4 +1,4 @@
-</h2>Torne-se um Desenvolvedor PHP, aprenda com dois especialistas a programar do básico ao avançado em um projeto completo.</h2>
+# Torne-se um Desenvolvedor PHP, aprenda com dois especialistas a programar do básico ao avançado em um projeto completo.
 
 Procurando se especializar como Programador WEB? Ou talvez buscando uma carreira que ofereça mais tempo livre e flexibilidade? Sempre teve curiosidade em aprender de uma forma prática, como programar no lado Back-End?  
 
